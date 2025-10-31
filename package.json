@@ -11,8 +11,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cord": "^1.0.1",
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "mongobd": "^0.0.1-security.0"
+    "mongobd": "^0.0.1-security.0",
+    "mongodb": "^6.20.0",
+    "nodemon": "^3.1.10"
   }
 }
